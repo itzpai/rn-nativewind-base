@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "grocery",
-    "slug": "grocery",
+    "name": "rn-nativewind",
+    "slug": "rn-nativewind",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "grocery",
+    "scheme": "rn-nativewind",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
