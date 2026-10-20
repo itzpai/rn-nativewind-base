@@ -6,6 +6,9 @@
     "@clerk/expo": "^4.11.0",
     "@clerk/expo-native-components": "^0.2.0",
     "@expo/ui": "~57.0.23",
+    "@react-navigation/bottom-tabs": "^7.7.3",
+    "@react-navigation/elements": "^2.8.1",
+    "@react-navigation/native": "^7.1.28",
     "expo": "~57.0.28",
     "expo-constants": "~57.0.21",
     "expo-dev-client": "~57.0.20",
@@ -35,6 +38,8 @@
   "devDependencies": {
     "@types/react": "~19.2.2",
     "babel-preset-expo": "^57.0.15",
+    "eslint": "^9.0.0",
+    "eslint-config-expo": "~57.0.2",
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.4.17",
     "typescript": "~6.0.3"
