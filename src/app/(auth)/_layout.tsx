@@ -8,7 +8,7 @@ export default function AuthRouteLayout() {
     return <Text>Loading...</Text>;
   }
   if (isSignedIn) {
-    return <Redirect href="/home" />;
+    return <Redirect href="/(home)" />;
   }
   return <Stack screenOptions={{ headerShown: false }} />;
 }
